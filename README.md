@@ -1,1 +1,1 @@
-![image](https://i.ibb.co/M2kGxcJ/dino.gifJ)
+![恐龙](https://gitee.com/MagicWingMI/md-images/raw/master/img/dino.gif)
